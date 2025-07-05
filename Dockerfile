@@ -6,7 +6,7 @@ WORKDIR /app
 
 # Install system dependencies (needed for OpenCV and others)
 RUN apt-get update && apt-get install -y \
-    libglib2.0-0 libsm6 libxext6 libxrender-dev gcc \
+    libgl1 libglib2.0-0 libsm6 libxext6 libxrender-dev gcc \
     && apt-get clean
 
 # Copy project files to the container
