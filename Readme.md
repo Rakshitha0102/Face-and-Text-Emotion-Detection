@@ -39,5 +39,5 @@ This is a Flask-based web application that detects emotions from both **facial e
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/Face-and-Text-Emotion-Detection.git
+   git clone https://github.com/Rakshitha0102/Face-and-Text-Emotion-Detection.git
    cd Face-and-Text-Emotion-Detection
